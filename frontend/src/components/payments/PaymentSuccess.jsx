@@ -1,0 +1,1 @@
+// Use the PaymentSuccess component already provided earlier
